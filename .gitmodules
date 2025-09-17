@@ -1,0 +1,15 @@
+[submodule "s3-bucket-website-hosting-terraform"]
+	path = s3-bucket-website-hosting-terraform
+	url = https://github.com/stackcouture/s3-bucket-website-hosting-terraform
+[submodule "iam-user-creating-terraform"]
+	path = iam-user-creating-terraform
+	url = https://github.com/stackcouture/iam-user-creating-terraform
+[submodule "ec2-volumes-using-terraform"]
+	path = ec2-volumes-using-terraform
+	url = https://github.com/stackcouture/ec2-volumes-using-terraform
+[submodule "aws-site-to-site-vpn-terraform"]
+	path = aws-site-to-site-vpn-terraform
+	url = https://github.com/stackcouture/aws-site-to-site-vpn-terraform
+[submodule "s3-website-oidc-terraform"]
+	path = s3-website-oidc-terraform
+	url = https://github.com/stackcouture/s3-website-oidc-terraform
